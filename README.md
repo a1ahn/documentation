@@ -20,9 +20,12 @@
 - [T-Bears Reference](/references/t-bears/t-bears-reference.md)
 
 ## Client SDK
-- Java SDK 
+- JavaScript SDK 
   - [Quickstart](/references/javascript-sdk/quickstart.md) 
   - [API Reference](/references/javascript-sdk/api-reference.md)
+- Python SDK 
+  - [Quickstart](/references/python-sdk/quickstart.md) 
+  - [API Reference](/references/python-sdk/api-reference.md)
   
 ## Design Doc
 
